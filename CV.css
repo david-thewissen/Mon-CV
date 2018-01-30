@@ -22,6 +22,12 @@
   font-weight: bold;
   font-size: 20px;
 }
+.sec-gauche-comp{
+  float: left;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 1.25;
+}
 .sec-droite{
   margin-left: 160px;
   margin-top: 35px;
@@ -31,16 +37,22 @@
   margin-top: 37px;
 }
 .sec-droite-comp{
-  margin-left: 160px;
-  margin-top: 55px;
+  margin-left: 165px;
+  margin-top: 38px;
+  line-height: 1.8;
+}
+.sec-droite-lang{
+  margin-left: 165px;
+  margin-top: 37px;
+  line-height: 1.7;
 }
 
 strong{
-  font-size: 30px;
+  font-size: 36px;
   color: #206670;
 }
 h2{
-  font-size: 28px;
+  font-size: 26px;
   color: #008080;
   text-transform: uppercase;
   border-bottom: 3px solid #008B8B;
